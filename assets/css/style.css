@@ -1,0 +1,39 @@
+tr {
+	padding: 50px;
+}
+
+.link-section {
+	float: right;
+}
+
+#left-panel {
+	width: 40%;
+	float: left;
+	margin: 25px;
+	position: absolute;
+}
+
+#profile-pic {
+	width: 245px;
+	height: 200px;
+	position: fixed;
+}
+
+.education {
+
+}
+
+.image {
+	margin: 0 0 220px;
+}
+
+.looking-for {
+
+}
+
+#right-panel {
+	width: 55%;
+	position: relative;
+	margin: 25px auto;
+	float: right;
+}
